@@ -1,13 +1,7 @@
 
-# COIS 4550H: Assignment 2 
-##### March 2024
-##### Chinedu Anwusi 
-##### 069570
-
-
-
-
 ## Analysis of Random-Restart and First-Choice Hill Climbing Algorithms for N-Queens Problem
+##### March 2024
+##### Chinedu Anwusi
 
  ## Random-Restart Hill Climbing
 
