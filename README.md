@@ -1,7 +1,7 @@
 
 ## Analysis of Random-Restart and First-Choice Hill Climbing Algorithms for N-Queens Problem
 ##### March 2024
-##### Chinedu Anwusi
+##### ChineduA-source
 
  ## Random-Restart Hill Climbing
 
