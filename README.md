@@ -142,4 +142,6 @@
 
 ### Conculsion 
 
+To wrap it up, Random-Restart Hill Climbing routinely finds workable solutions in a short period of time, proving its efficacy and efficiency in solving the N-Queens problem. It would be easier to determine whether algorithm is faster if it were directly compared against the First-Choice Hill Climbing algorithm.
+
 
