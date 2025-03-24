@@ -142,6 +142,7 @@
 
 ### Conculsion 
 
-To wrap it up, Random-Restart Hill Climbing routinely finds workable solutions in a short period of time, proving its efficacy and efficiency in solving the N-Queens problem. It would be easier to determine whether algorithm is faster if it were directly compared against the First-Choice Hill Climbing algorithm.
+Although First-Choice Hill Climbing evaluates fewer neighbors and eliminates the need for several restarts, it is generally faster in conclusion. If a good local minimum is discovered early on, it can converge to a solution rapidly. In certain situations, nevertheless, it might not be able to locate the global optimum. Random-Restart Hill Climbing, on the other hand, may take longer since it resets several times, but because it explores different configurations, it has a higher chance of discovering the global optimum.
 
+Generally speaking, First-Choice Hill Climbing is faster if speed is your only concern. Random-Restart Hill Climbing, on the other hand, might take a little longer but has a higher likelihood of success if you're seeking for a higher probability of discovering the best answer.
 
